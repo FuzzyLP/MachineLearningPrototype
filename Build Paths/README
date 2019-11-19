@@ -1,0 +1,1 @@
+You have to add to build path the 3 jars in the buildPath folder. The folder "jfreechart-1.0.19" includes all the elements. however, it isn't necessary, it has just been added if anyone wants to take a depper look into it.
